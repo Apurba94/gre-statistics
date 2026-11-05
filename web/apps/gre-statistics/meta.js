@@ -1,0 +1,1 @@
+window.SK_META = {"name": "gre-statistics", "title": "Statistics Trainer", "exam": "GRE", "area": "GRE Quant", "desc": "Mean, median, mode, range, standard deviation, quartiles and the normal curve, with generated data.", "content": [], "n": 25};
